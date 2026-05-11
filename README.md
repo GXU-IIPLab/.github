@@ -1,5 +1,7 @@
 # .github
 # GXU-IIPLab  Official code repository
 ## Research Areas  
-- Visible-Infrared Person Re-Identification 
 - Computer Vision
+- Image Processing and Analysis
+- Cross‑Modal Image Retrieval
+- Person Re‑Identification
